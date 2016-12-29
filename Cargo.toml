@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["BookOwl <stanleybookowl@gmail.com>"]
 
 [dependencies]
+clipboard = "0.1.2"
+clap = "2.19.3"
